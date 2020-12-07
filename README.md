@@ -35,3 +35,5 @@ L'objectif de ce TP est de manipuler le son, notamment par le biais du Time-Stre
 - Contrairement à la dilatation temporelle réalisée dans la partie 2, on constate que les fréquences sont conservées mais que la durée de la trame est doublée. J'en conclue que le time-stretching a bien eu l'effet escompté.
 
 # Compression audio
+
+Pas eu le temps de finir
